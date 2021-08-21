@@ -1,8 +1,8 @@
 ### Hi there -- I'm Muzammil 👋
 
-I write programs to help me learn new algorithms, data structures, concepts, programming languages, systems, libraries, frameworks and application. 
+I write programs to help me learn new concepts, algorithms, data structures, programming languages, systems, libraries, frameworks and application. 
 
-If you have project related to Internet Measurements, Distributed Systems, or Large-Scale Analytics, please feel free to reach out to me via email.
+If you have a project related to Internet Measurements, Distributed Systems, or Large-Scale Analytics, please feel free to reach out to me via email.
 
 I am always looking for ways to learn and improve myself so I'm always open to recieving feedback.
 
