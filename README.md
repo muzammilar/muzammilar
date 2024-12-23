@@ -2,7 +2,7 @@
 
 I write programs to help me learn new concepts, algorithms, data structures, programming languages, systems, libraries, frameworks and application. 
 
-If you have a project related to Internet Measurements, Distributed Systems, or Large-Scale Analytics, please feel free to reach out to me via email.
+If you have a project related to Internet Measurements, Distributed Systems, or Large-Scale Analytics, please feel free to reach out to me via email or [LinkedIn](https://www.linkedin.com/in/muzammil-abdul-rehman/).
 
 I am always looking for ways to learn and improve myself so I'm always open to recieving feedback.
 
