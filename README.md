@@ -6,6 +6,8 @@ If you have a project related to Internet Measurements, Distributed Systems, or 
 
 I am always looking for ways to learn and improve myself so I'm always open to recieving feedback.
 
+Website/Long Form Work History/Resume: https://muzammilar.github.io 
+
 <!--
 **muzammilar/muzammilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
